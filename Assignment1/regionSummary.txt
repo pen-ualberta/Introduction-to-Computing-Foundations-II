@@ -1,0 +1,11 @@
+============================================
+Regions impacted by Pay It Forward Actions: 
+============================================
+UNKNOWN #
+WEST EDMONTON #
+SOUTH EDMONTON ##
+SHERWOOD PARK #
+SHERWOOD PARC #
+NORTH EDMONTON ###
+EAST EDMONTON ##
+============================================
